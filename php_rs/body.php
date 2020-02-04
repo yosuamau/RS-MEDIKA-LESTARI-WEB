@@ -61,10 +61,10 @@
     <!-- content -->
     <div class="content">
         <div class="container">
-            <div class="col-md-4 content_right wow flipInY" data-wow-duration="1.5s" data-wow-delay="0.1s">
+            <div class="col-md-8 content_right wow flipInY" data-wow-duration="1.5s" data-wow-delay="0.1s">
                 <img class="img-responsive" src="images/pic1.jpg" alt=" " />
             </div>
-            <div class="col-md-4 content_left wow flipInY" data-wow-duration="1.5s" data-wow-delay="0.2s">
+            <div class="col-md-8 content_left wow flipInY" data-wow-duration="1.5s" data-wow-delay="0.2s">
                 <div class="welcome">
                     <h3>Layanan Kami di<br> RS. Medika Lestari</h3>
                     <ul>
@@ -161,12 +161,12 @@
                 </div>
                 <div class="list-left text-center no_marg wow bounceInDown" data-wow-duration="1.5s" data-wow-delay="0.3s">
                     <span class="glyphicon glyphicon-apple" aria-hidden="true"></span>
-                    <h4>Konsultasi</h4>
+                    <h4>Specialis</h4>
                     <p>Konsultasi bagi pasien dan ibu hamil</p>
                 </div>
                 <div class="list-left text-center no_marg wow bounceInDown" data-wow-duration="1.5s" data-wow-delay="0.4s">
                     <span class="glyphicon glyphicon-education" aria-hidden="true"></span>
-                    <h4>Apotik</h4>
+                    <h4>Radiology</h4>
                     <p>Menyediakan obat - obat generic dan paten</p>
                 </div>
                 <div class="clearfix"></div>
